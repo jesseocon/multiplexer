@@ -31,7 +31,8 @@ p {
 	background:url("../images/header.png") no-repeat -2.5px -3px;
 /*	background-repeat:none;
 	background-position: right -2.5px top -3px;
-*/	border:solid 2px #64bdcb;
+*/border:solid 2px #64bdcb;
+	border-top:solid 2px rgba(100,189,203,.3);
 	-moz-border-radius-topleft: 5px;
 	-moz-border-radius-topright:5px;
 	-moz-border-radius-bottomleft:0px;
