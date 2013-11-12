@@ -4,17 +4,18 @@ body {
 h3 {
 	color: #665441;
 	font-family: georgia;
-	font-size: 20px;
-	font-weight: 400;
-	margin-top: 15px;
-	margin-bottom: 14px;
+	font-size: 22px;
+	font-weight: 100;
+	margin-top: 20px;
+	margin-bottom: 18px;
 	padding-top: 10px;
 	padding-bottom: 0;
 }
 h5 {
-	color: #3a220d;
-	font-family:helvetica;
-	margin:10px 0 20px 10px;
+	color: #3A220D;
+	font-family: helvetica;
+	font-size: .89em;
+	margin: 10px 0 17px 10px;
 }
 p {
 	font-family:georgia;
@@ -80,7 +81,8 @@ p {
 .nav ul li {
 	color: #4B97A2;
 	float: left;
-	font-size: 12px;
+	font-size: 13px;
+	font-weight: 200;
 	list-style-type: none;
 	margin-top: 12px;
 	text-align: center;
@@ -118,7 +120,8 @@ p {
 	box-shadow: 0px 4px 20px rgba(30,30,20, .15);
 }
 .paragraph p {
-	color: #665441;
+	color: #3a220d;
+	color:rgba(58,34,13,.75);
 	font-family: georgia;
 	font-size: 14px;
 	font-weight: 100;
@@ -157,6 +160,15 @@ p {
 	letter-spacing: .3px;
 	padding: 8px 15px 0 0;
 	font-weight:100;
+}
+#boy-para {
+	color:rgba(85,85,85,.95);
+}
+#girl-para {
+	color:rgba(85,85,85,.95);
+}
+.photo-grid {
+	margin-top:-2px;
 }
 .photo-grid img {
 	border:white 10px solid;
